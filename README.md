@@ -15,23 +15,23 @@ e um ponteiro de dados apontando para a célula atual.
 
 Existem oito comandos:
 
-+ : Incrementa o valor na célula atual por um.
+'+' : Incrementa o valor na célula atual por um.
 
-- : Decrementa o valor na célula atual por um.
+'-' : Decrementa o valor na célula atual por um.
 
-> : Move o ponteiro de dados para a próxima célula (célula à direita).
+'>' : Move o ponteiro de dados para a próxima célula (célula à direita).
 
-< : Move o ponteiro de dados para a célula anterior (célula à esquerda).
+'<' : Move o ponteiro de dados para a célula anterior (célula à esquerda).
 
-. : Imprime o valor ASCII na célula atual (ou seja, 65 = 'A').
+'.' : Imprime o valor ASCII na célula atual (ou seja, 65 = 'A').
 
-, : Lê um único caractere de entrada na célula atual.
+',' : Lê um único caractere de entrada na célula atual.
 
-[ : Se o valor na célula atual é zero, ignora o correspondente ].
+'[' : Se o valor na célula atual é zero, ignora o correspondente ].
 
      Caso contrário, avance para a próxima instrução.
      
-] : Se o valor na célula atual for zero, mude para a próxima instrução.
+']' : Se o valor na célula atual for zero, mude para a próxima instrução.
 
      Caso contrário, mova para trás nas instruções para o correspondente [.
      
