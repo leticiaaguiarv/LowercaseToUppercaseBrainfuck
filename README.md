@@ -1,5 +1,5 @@
 # LowercaseToUppercaseBrainfuck
-Linguagem: Brainfuck
+Linguagem: Brainfuck.
 
 Observações: Não há tratamento para quando o usuário coloca um caracter que não seja uma letra minúscula.
 
